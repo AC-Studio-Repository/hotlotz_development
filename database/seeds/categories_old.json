@@ -1,0 +1,724 @@
+[
+    {
+    	"id": 1,
+    	"parent_id": null,
+        "name": "Maps & Bonds",
+        "properties": []
+    },
+    {
+    	"id": 2,
+    	"parent_id": 1,
+        "name": "Maps",
+        "properties": [
+        	{
+        		"id": 1,
+        		"category_id": 2,
+				"key": "Subject Area/country",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 2,
+        		"category_id": 2,
+				"key": "Country of production",
+				"value": "France,Italy,Netherlands,Great Britain,Germany,Other",
+				"field_type": "radio",
+				"is_required": "Required",
+				"is_filter": "Y"
+		    },
+	    	{
+	    		"id": 3,
+        		"category_id": 2,
+				"key": "Year",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 4,
+        		"category_id": 2,
+				"key": "Framing",
+				"value": "Framed,Unframed",
+				"field_type": "radio",
+				"is_required": "Required",
+				"is_filter": "Y"
+		    },
+	    	{
+	    		"id": 5,
+        		"category_id": 2,
+				"key": "Cartographer",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 6,
+        		"category_id": 2,
+				"key": "Method of Production",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 7,
+        		"category_id": 2,
+				"key": "Publisher",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 8,
+        		"category_id": 2,
+				"key": "Frame dimensions Height",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 9,
+        		"category_id": 2,
+				"key": "Frame dimensions Width",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 10,
+        		"category_id": 2,
+				"key": "Map dimensions Height",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 11,
+        		"category_id": 2,
+				"key": "Map dimensions Width",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 12,
+        		"category_id": 2,
+				"key": "Condition",
+				"value": null,
+				"field_type": null,
+				"is_required": null,
+				"is_filter": "N"
+		    }
+        ]
+    },{
+    	"id": 3,
+    	"parent_id": 1,
+        "name": "Drawings",
+        "properties": [
+        	{
+        		"id": 13,
+        		"category_id": 3,
+				"key": "Location",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 14,
+        		"category_id": 3,
+				"key": "Country of production",
+				"value": "France,Italy,Netherlands,Great Britain,Germany,Other",
+				"field_type": "radio",
+				"is_required": "Required",
+				"is_filter": "Y"
+		    },
+	    	{
+	    		"id": 15,
+        		"category_id": 3,
+				"key": "Year",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 16,
+        		"category_id": 3,
+				"key": "Title (Native Language)",
+				"value": "Framed,Unframed",
+				"field_type": "radio",
+				"is_required": "Required",
+				"is_filter": "Y"
+		    },
+	    	{
+	    		"id": 17,
+        		"category_id": 3,
+				"key": "Cartographer",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 18,
+        		"category_id": 3,
+				"key": "Method of Production",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 19,
+        		"category_id": 3,
+				"key": "Publisher",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 20,
+        		"category_id": 3,
+				"key": "Frame dimensions Height",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 21,
+        		"category_id": 3,
+				"key": "Frame dimensions Width",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 22,
+        		"category_id": 3,
+				"key": "Map dimensions Height",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 23,
+        		"category_id": 3,
+				"key": "Map dimensions Width",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 24,
+        		"category_id": 3,
+				"key": "Condition",
+				"value": null,
+				"field_type": null,
+				"is_required": null,
+				"is_filter": "N"
+		    }
+        ]
+    },{
+    	"id": 4,
+    	"parent_id": 2,
+        "name": "World",
+        "properties": []
+    },{
+    	"id": 5,
+    	"parent_id": 2,
+        "name": "Asia",
+        "properties": []
+    },{
+    	"id": 6,
+    	"parent_id": 2,
+        "name": "Europe",
+        "properties": []
+    },{
+    	"id": 7,
+    	"parent_id": 2,
+        "name": "Americas",
+        "properties": []
+    },{
+    	"id": 8,
+    	"parent_id": 2,
+        "name": "Oceana",
+        "properties": []
+    },{
+    	"id": 9,
+    	"parent_id": null,
+        "name": "Wine and Spirits",
+        "properties": []
+    },{
+    	"id": 10,
+    	"parent_id": 9,
+        "name": "Wine",
+        "properties": [
+        	{
+        		"id": 25,
+        		"category_id": 10,
+				"key": "Type",
+				"value": "Red,White,Rose",
+				"field_type": "radio",
+				"is_required": "Required",
+				"is_filter": "Y"
+		    },{
+        		"id": 26,
+        		"category_id": 10,
+				"key": "Number of Bottles",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },{
+        		"id": 27,
+        		"category_id": 10,
+				"key": "Producer",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },{
+        		"id": 28,
+        		"category_id": 10,
+				"key": "Vintage",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },{
+        		"id": 29,
+        		"category_id": 10,
+				"key": "Country of Origin",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "Y"
+		    },{
+        		"id": 30,
+        		"category_id": 10,
+				"key": "Region",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "Y"
+		    },{
+        		"id": 31,
+        		"category_id": 10,
+				"key": "ABV",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },{
+        		"id": 32,
+        		"category_id": 10,
+				"key": "Grape Type",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },{
+        		"id": 33,
+        		"category_id": 10,
+				"key": "Bottle Size",
+				"value": "375 ml (Half),750 ml (Standard),1.5 L (Magnum),3.0 L (Double Magnum),Other",
+				"field_type": "radio",
+				"is_required": "Required",
+				"is_filter": "Y"
+		    },{
+        		"id": 34,
+        		"category_id": 10,
+				"key": "Provenance",
+				"value": null,
+				"field_type": "radio",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },{
+        		"id": 35,
+        		"category_id": 10,
+				"key": "Storage",
+				"value": null,
+				"field_type": "radio",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },{
+        		"id": 36,
+        		"category_id": 10,
+				"key": "Label Condition",
+				"value": "Good,Medium,Poor",
+				"field_type": "radio",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },{
+        		"id": 37,
+        		"category_id": 10,
+				"key": "Shoulder Height",
+				"value": "High,Medium,Low",
+				"field_type": "radio",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    }
+		]
+    },{
+    	"id": 11,
+    	"parent_id": 9,
+        "name": "Sparkling Wine",
+        "properties": [
+        	{
+        		"id": 38,
+        		"category_id": 11,
+				"key": "Type",
+				"value": "Champagne,Proseco,Other",
+				"field_type": "radio",
+				"is_required": "Required",
+				"is_filter": "Y"
+		    },{
+        		"id": 39,
+        		"category_id": 11,
+				"key": "Colour",
+				"value": "Any",
+				"field_type": "radio",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },{
+        		"id": 40,
+        		"category_id": 11,
+				"key": "Number of Bottles",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },{
+        		"id": 41,
+        		"category_id": 11,
+				"key": "Producer",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },{
+        		"id": 42,
+        		"category_id": 11,
+				"key": "Vintage",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },{
+        		"id": 43,
+        		"category_id": 11,
+				"key": "Country of Origin",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "Y"
+		    },{
+        		"id": 44,
+        		"category_id": 11,
+				"key": "Region",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "Y"
+		    },{
+        		"id": 45,
+        		"category_id": 11,
+				"key": "ABV",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },{
+        		"id": 46,
+        		"category_id": 11,
+				"key": "Grape Type",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },{
+        		"id": 47,
+        		"category_id": 11,
+				"key": "Bottle Size",
+				"value": "375 ml (Half),750 ml (Standard),1.5 L (Magnum),3.0 L (Double Magnum),Other",
+				"field_type": "radio",
+				"is_required": "Required",
+				"is_filter": "Y"
+		    },{
+        		"id": 48,
+        		"category_id": 11,
+				"key": "Provenance",
+				"value": "Any",
+				"field_type": "radio",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },{
+        		"id": 49,
+        		"category_id": 11,
+				"key": "Storage",
+				"value": "Any",
+				"field_type": "radio",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },{
+        		"id": 50,
+        		"category_id": 11,
+				"key": "Label Condition",
+				"value": "Good,Medium,Poor",
+				"field_type": "radio",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },{
+        		"id": 51,
+        		"category_id": 11,
+				"key": "Shoulder Height",
+				"value": "High,Medium,Low",
+				"field_type": "radio",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    }
+        ]
+    },{
+    	"id": 12,
+    	"parent_id": 9,
+        "name": "Fortified Wine",
+        "properties": [
+        	{
+        		"id": 52,
+        		"category_id": 12,
+				"key": "Type",
+				"value": "Port,Sherry,Other",
+				"field_type": "radio",
+				"is_required": "Required",
+				"is_filter": "Y"
+		    },{
+        		"id": 53,
+        		"category_id": 12,
+				"key": "Colour",
+				"value": "Any",
+				"field_type": "radio",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },{
+        		"id": 54,
+        		"category_id": 12,
+				"key": "Number of Bottles",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },{
+        		"id": 55,
+        		"category_id": 12,
+				"key": "Producer",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },{
+        		"id": 56,
+        		"category_id": 12,
+				"key": "Vintage",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },{
+        		"id": 57,
+        		"category_id": 12,
+				"key": "Country of Origin",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "Y"
+		    },{
+        		"id": 58,
+        		"category_id": 12,
+				"key": "Region",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "Y"
+		    },{
+        		"id": 59,
+        		"category_id": 12,
+				"key": "ABV",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },{
+        		"id": 60,
+        		"category_id": 12,
+				"key": "Grape Type",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },{
+        		"id": 61,
+        		"category_id": 12,
+				"key": "Bottle Size",
+				"value": "375 ml (Half),750 ml (Standard),1.5 L (Magnum),3.0 L (Double Magnum),Other",
+				"field_type": "radio",
+				"is_required": "Required",
+				"is_filter": "Y"
+		    },{
+        		"id": 62,
+        		"category_id": 12,
+				"key": "Provenance",
+				"value": "Any",
+				"field_type": "radio",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },{
+        		"id": 63,
+        		"category_id": 12,
+				"key": "Storage",
+				"value": "Any",
+				"field_type": "radio",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },{
+        		"id": 64,
+        		"category_id": 12,
+				"key": "Label Condition",
+				"value": "Good,Medium,Poor",
+				"field_type": "radio",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },{
+        		"id": 65,
+        		"category_id": 12,
+				"key": "Shoulder Height",
+				"value": "High,Medium,Low",
+				"field_type": "radio",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    }
+        ]
+    },{
+    	"id": 13,
+    	"parent_id": 9,
+        "name": "Spirits",
+        "properties": [
+        	{
+        		"id": 66,
+        		"category_id": 13,
+				"key": "Type",
+				"value": "Gin,Vodka,Rum,Liqueur,Whisk(e)y,Other",
+				"field_type": "radio",
+				"is_required": "Required",
+				"is_filter": "Y"
+		    },{
+        		"id": 67,
+        		"category_id": 13,
+				"key": "Number of Bottles",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },{
+        		"id": 68,
+        		"category_id": 13,
+				"key": "Country of Origin",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "Y"
+		    },{
+        		"id": 69,
+        		"category_id": 13,
+				"key": "ABV",
+				"value": "Any",
+				"field_type": "text",
+				"is_required": "Required",
+				"is_filter": "N"
+		    },{
+        		"id": 70,
+        		"category_id": 13,
+				"key": "Bottle Size",
+				"value": "750ml,1L,Other",
+				"field_type": "radio",
+				"is_required": "Required",
+				"is_filter": "Y"
+		    },{
+        		"id": 71,
+        		"category_id": 13,
+				"key": "Provenance",
+				"value": "Any",
+				"field_type": "radio",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },{
+        		"id": 72,
+        		"category_id": 13,
+				"key": "Storage",
+				"value": "Any",
+				"field_type": "radio",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    }
+        ]
+    },{
+    	"id": 14,
+    	"parent_id": null,
+        "name": "Art",
+        "properties": []
+    },{
+    	"id": 15,
+    	"parent_id": null,
+        "name": "Collectables",
+        "properties": []
+    },{
+    	"id": 16,
+    	"parent_id": null,
+        "name": "Designer & Luxury",
+        "properties": []
+    },{
+    	"id": 17,
+    	"parent_id": null,
+        "name": "Furniture",
+        "properties": []
+    },{
+    	"id": 18,
+    	"parent_id": null,
+        "name": "Decor",
+        "properties": []
+    },{
+    	"id": 19,
+    	"parent_id": null,
+        "name": "Jewellery",
+        "properties": []
+    },{
+    	"id": 20,
+    	"parent_id": null,
+        "name": "Rugs & Carpets",
+        "properties": []
+    },{
+    	"id": 21,
+    	"parent_id": null,
+        "name": "Tableware",
+        "properties": []
+    },{
+    	"id": 22,
+    	"parent_id": null,
+        "name": "Watches",
+        "properties": []
+    }
+]

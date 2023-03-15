@@ -1,0 +1,10 @@
+.select2-container--default .select2-selection--single {
+    padding: 2px;
+    height: 32px;
+    font-size: 1.2em;
+    position: relative;
+}
+  
+.select2-selection__arrow {
+    margin-top: 2px;
+}

@@ -1,0 +1,956 @@
+[
+    {
+    	"id": 1,
+    	"parent_id": null,
+        "name": "Maps & Bonds",
+        "properties": [
+        	{
+        		"id": 1,
+        		"category_id": 1,
+				"key": "Sub Category",
+				"value": "Worldwide,Regional,Other",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+        	{
+        		"id": 2,
+        		"category_id": 1,
+				"key": "Subject Area/country",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 3,
+        		"category_id": 1,
+				"key": "Country of manufacture",
+				"value": "France,Germany,Great Britain,Italy,Netherlands,Other",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 4,
+        		"category_id": 1,
+				"key": "Date of manufacture",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 5,
+        		"category_id": 1,
+				"key": "Cartographer",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 6,
+        		"category_id": 1,
+				"key": "Publisher",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 7,
+        		"category_id": 1,
+				"key": "Framed",
+				"value": "Yes,No",
+				"field_type": "checkbox",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 8,
+        		"category_id": 1,
+				"key": "Dimensions without frame",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 9,
+        		"category_id": 1,
+				"key": "Certification",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    }
+        ]
+    },
+    {
+    	"id": 2,
+    	"parent_id": null,
+        "name": "Art",
+        "properties": [
+        	{
+        		"id": 10,
+        		"category_id": 2,
+				"key": "Sub Category",
+				"value": "Painting,Print & Multiple,Drawing & Watercolour,Mixed Media,Photography,Engraving,Sculpture,Other",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+        	{
+        		"id": 11,
+        		"category_id": 2,
+				"key": "Period",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 12,
+        		"category_id": 2,
+				"key": "Place of Origin",
+				"value": "Asia,Europe,Oceania,America,Africa,Other",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 13,
+        		"category_id": 2,
+				"key": "Movement & Style",
+				"value": "Contemporary,Modern,Abstract,Minimalist,Pop Art,Street Art,Surrealist,Impressionist,Old Masters,Photorealist",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 14,
+        		"category_id": 2,
+				"key": "Artist",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 15,
+        		"category_id": 2,
+				"key": "Signed by the artist",
+				"value": "",
+				"field_type": "checkbox",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 16,
+        		"category_id": 2,
+				"key": "Medium",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 17,
+        		"category_id": 2,
+				"key": "Edition",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 18,
+        		"category_id": 2,
+				"key": "Framing",
+				"value": "Framed,Unframed",
+				"field_type": "checkbox",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 19,
+        		"category_id": 2,
+				"key": "Dimensions without frame",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 20,
+        		"category_id": 2,
+				"key": "Certification",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    }
+        ]
+    },
+    {
+    	"id": 3,
+    	"parent_id": null,
+        "name": "Asian Collectables",
+        "properties": [
+        	{
+        		"id": 21,
+        		"category_id": 3,
+				"key": "Sub Category",
+				"value": "Furniture,Painting,Sculpture,Ceramic,Snuff Bottles,Work on paper,Lacquerware,Carving,Other",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 22,
+        		"category_id": 3,
+				"key": "Period",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 23,
+        		"category_id": 3,
+				"key": "Material",
+				"value": "Bamboo,Bronze,Dried gourd,Ivory,Jade,Lacquer,Marble,Metalware,Pewter,Porcelain,Pottery,Silver,Stoneware,Wood",
+				"field_type": "dropdown&checkbox",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 24,
+        		"category_id": 3,
+				"key": "Place of Origin",
+				"value": "China,Japan,Middle East,South Asia,Southeast Asia,Tibet",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 25,
+        		"category_id": 3,
+				"key": "Certification",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    }
+		]
+    },
+    {
+    	"id": 4,
+    	"parent_id": null,
+        "name": "Designer Fashion",
+        "properties": [
+        	{
+        		"id": 26,
+        		"category_id": 4,
+				"key": "Sub Category",
+				"value": "Clothing,Handbag & Purse,Accessories,Ephemera",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 27,
+        		"category_id": 4,
+				"key": "EU Size",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 28,
+        		"category_id": 4,
+				"key": "UK Size",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 29,
+        		"category_id": 4,
+				"key": "US Size",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 30,
+        		"category_id": 4,
+				"key": "Period",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 31,
+        		"category_id": 4,
+				"key": "Material",
+				"value": "Canvas,Cashmere,Cotton,Denim,Leather,Linen,Silk,Suede,Synthetic,Wool",
+				"field_type": "dropdown&checkbox",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 32,
+        		"category_id": 4,
+				"key": "Brand",
+				"value": "Bulgari,Burberry,Cartier,Céline,Chanel,Coach,Diane Von Furstenberg,Dior,Giorgio Armani,Gucci,Hermes,Issey Miyake,Longchamps,Louis Vuitton,Marc Jacobs,Max Mara,Prada,Ralph Lauren,Salvatore Ferragamo,Yves Saint Laurent,Other",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 33,
+        		"category_id": 4,
+				"key": "Packaging",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    }
+		]
+    },
+    {
+    	"id": 5,
+    	"parent_id": null,
+        "name": "Furniture",
+        "properties": [
+        	{
+        		"id": 34,
+        		"category_id": 5,
+				"key": "Sub Category",
+				"value": "Table,Seating,Dining Set,Storage,Console,Daybed,Desk,Lighting,Screen,Bookcase,Outdoor Furniture,Other",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 35,
+        		"category_id": 5,
+				"key": "Period",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 36,
+        		"category_id": 5,
+				"key": "Material",
+				"value": "Brass,Ceramic,Glass,Lacquer,Leather,Linen,Marble,Mirror,Rattan,Stainless Steel,Upholstered,Wood",
+				"field_type": "dropdown&checkbox",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 37,
+        		"category_id": 5,
+				"key": "Style",
+				"value": "Art Deco,Asian,Chinese,Contemporary,Design,European,Indian,Indonesian,Peranakan,Post War Design,Rustic,Scandinavian,Vintage,Other",
+				"field_type": "checkbox",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 38,
+        		"category_id": 5,
+				"key": "Certification",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    }
+		]
+    },
+    {
+    	"id": 6,
+    	"parent_id": null,
+        "name": "Jewellery",
+        "properties": [
+        	{
+        		"id": 39,
+        		"category_id": 6,
+				"key": "Sub Category",
+				"value": "Bracelet & Cuff,Ring,Men's Jewellery,Earring,Jewellery box,Jewellery set,Loose Gem Stone,Necklace & Pendant,Brooch,Other",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+        	{
+        		"id": 40,
+        		"category_id": 6,
+				"key": "Type",
+				"value": "Fine Jewellery,Costume Jewellery,Lighter,Pen,Coins,Cufflinks,Tie Pins",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 41,
+        		"category_id": 6,
+				"key": "Period",
+				"value": "Contemporary,Vintage,Art Deco,Antique,Other",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 42,
+        		"category_id": 6,
+				"key": "Material",
+				"value": "9K Gold,18K Gold,24K Gold,Rose Gold,White Gold,Yellow Gold,Silver,Platinum,Stainless Steel,Jade,Other",
+				"field_type": "dropdown&checkbox",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 43,
+        		"category_id": 6,
+				"key": "Stone",
+				"value": "Amethyst,Aquamarine,Citrine,Diamond,Emerald,Pearl,Ruby,Sapphire,Topaz,Other",
+				"field_type": "dropdown&checkbox",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 44,
+        		"category_id": 6,
+				"key": "Brand",
+				"value": "Bulgari,Cartier,Chanel,Dior,Tiffany & Co,Gucci,Hermes,Louis Vuitton,Other",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 45,
+        		"category_id": 6,
+				"key": "Packaging",
+				"value": "With box and papers,Original Box,Packaged,No box",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 46,
+        		"category_id": 6,
+				"key": "Certification",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    }
+		]
+    },
+    {
+    	"id": 7,
+    	"parent_id": null,
+        "name": "Home Decor",
+        "properties": [
+        	{
+        		"id": 47,
+        		"category_id": 7,
+				"key": "Sub Category",
+				"value": "Box & Basket,Decorative Panel,Lighting,Mirror,Poster,Sculpture,Chest & Suitcase,Vase, Bowl & Jar,Wall Decor,Textile,Memorabilia,Decorative Objects,Other",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 48,
+        		"category_id": 7,
+				"key": "Period",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 49,
+        		"category_id": 7,
+				"key": "Style",
+				"value": "Art Deco,Chinese,Contemporary,Design,English,French,Indian,Indonesian,Peranakan,Scandinavian,Souteast Asian,Vintage",
+				"field_type": "checkbox",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 50,
+        		"category_id": 7,
+				"key": "Material",
+				"value": "Brass,Ceramic,Glass,Hardstone Inlays,Ivory,Lacquer,Leather,Textile,Marble,Metal,Mother-Of-Pearl Inlays,Pewter,Quartz,Rattan,Stainless Steel,Stone,Upholstered,Wood",
+				"field_type": "dropdown&checkbox",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 51,
+        		"category_id": 7,
+				"key": "Certification",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    }
+		]
+    },
+    {
+    	"id": 8,
+    	"parent_id": null,
+        "name": "Rugs & Carpets",
+        "properties": [
+        	{
+        		"id": 52,
+        		"category_id": 8,
+				"key": "Sub Category",
+				"value": "Contemporary,Classic",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+        	{
+        		"id": 53,
+        		"category_id": 8,
+				"key": "Period",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+        	{
+        		"id": 54,
+        		"category_id": 8,
+				"key": "Material",
+				"value": "Silk,Cotton,Wool",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+        	{
+        		"id": 55,
+        		"category_id": 8,
+				"key": "Shape",
+				"value": "Rectangular,Square,Runner,Meditation mat",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+        	{
+        		"id": 56,
+        		"category_id": 8,
+				"key": "Technique",
+				"value": "Hand Woven,Machine Woven",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+        	{
+        		"id": 57,
+        		"category_id": 8,
+				"key": "Style",
+				"value": "Kashmiri,Pakistani,Iranian & Persian,Caucasian & Russian,Contemporary,Afghan,Turkmen,Tibetan",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+        	{
+        		"id": 58,
+        		"category_id": 8,
+				"key": "Design",
+				"value": "Floral,Medallion,Panel,Prayer,Fauna & Flora,Veramin,Geometric,Tribal,Bi-colour",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 59,
+        		"category_id": 8,
+				"key": "Certification",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    }
+		]
+    },
+    {
+    	"id": 9,
+    	"parent_id": null,
+        "name": "Tableware",
+        "properties": [
+        	{
+        		"id": 60,
+        		"category_id": 9,
+				"key": "Sub Category",
+				"value": "Porcelain Service,Plate,Glassware,Flatware,Bowl & Dish,Serving dish,Vase,Ice Bucket,Jug & Decanter,Bottle Holder,Coffee & Tea Pot,Candlesticks,Collectibles & Curiosities",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+        	{
+        		"id": 61,
+        		"category_id": 9,
+				"key": "Period",
+				"value": "Contemporary,Vintage,Antique,Art Deco,Other",
+				"field_type": "checkbox",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+        	{
+        		"id": 62,
+        		"category_id": 9,
+				"key": "Material",
+				"value": "Crystal,Porcelain,Silver,Silver-plate,Chrome,Stainless Steel,Glass,Wood,Bronze,Pewter,Gold,Gold-plate,Mother-of-pearl,Stoneware,Majolica,Faience,Lapis Lazuli",
+				"field_type": "dropdown&checkbox",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+        	{
+        		"id": 63,
+        		"category_id": 9,
+				"key": "Place of Origin",
+				"value": "Asia,Belgium,France,Germany,Italy,United Kingdon,Other",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 64,
+        		"category_id": 9,
+				"key": "Certification",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    }
+		]
+    },
+    {
+    	"id": 10,
+    	"parent_id": null,
+        "name": "Watches & Timepieces",
+        "properties": [
+        	{
+        		"id": 65,
+        		"category_id": 10,
+				"key": "Sub Category",
+				"value": "Men's Watch,Women's Watch,Unisex Watch,Pocket Watch,Clock,Other",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 66,
+        		"category_id": 10,
+				"key": "Movement",
+				"value": "Automatic,Quartz",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 67,
+        		"category_id": 10,
+				"key": "In Work Condition",
+				"value": "",
+				"field_type": "checkbox",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 68,
+        		"category_id": 10,
+				"key": "Brand",
+				"value": "Rolex,Omega,Patek Philippe,Bell & Ross,Breguet,Breitling,Cartier,Chopard,Dior,Franck Muller,Girard Perregaux,Gucci,Hublot,IWC,Jaeger-Lecoultre,Longines,Oris,Panerai,Richard Mille,Seiko,Tag Heuer,Tissot,Tudor,Vacheron Constantin,Zenith,Other",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 70,
+        		"category_id": 10,
+				"key": "Model",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 71,
+        		"category_id": 10,
+				"key": "Year / Period",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 72,
+        		"category_id": 10,
+				"key": "Reference Number",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 73,
+        		"category_id": 10,
+				"key": "Case Material",
+				"value": "Steel,White Gold,Yellow Gold,Silver,Platinum,Titanium",
+				"field_type": "dropdown&checkbox",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 74,
+        		"category_id": 10,
+				"key": "Case Diameter",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 75,
+        		"category_id": 10,
+				"key": "Bracelet Material",
+				"value": "Leather,Stainless Steel,White Gold,Yellow Gold,Silver,Platinum,Crocodile Skin",
+				"field_type": "dropdown&checkbox",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 76,
+        		"category_id": 10,
+				"key": "Packaging",
+				"value": "With box and papers,Original Box,Packaged,No box",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 77,
+        		"category_id": 10,
+				"key": "Certification",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    }
+		]
+    },
+    {
+    	"id": 11,
+    	"parent_id": null,
+        "name": "Wine & Spirits",
+        "properties": [
+        	{
+        		"id": 78,
+        		"category_id": 11,
+				"key": "Sub Category",
+				"value": "Wine,Sparking Wine,Fortified Wine,Spirit",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 79,
+        		"category_id": 11,
+				"key": "Number of Bottles",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 80,
+        		"category_id": 11,
+				"key": "Year",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 81,
+        		"category_id": 11,
+				"key": "Type",
+				"value": "Red,White,Rosé,Champagne,Prosecco,Port,Sherry,Gin,Vodka,Rum,Liqueur,Whisky",
+				"field_type": "radio",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 82,
+        		"category_id": 11,
+				"key": "Certification",
+				"value": "375 ml (Half),750 ml (Standard),1.5 L (Magnum),3.0 L (Double Magnum),Other",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 83,
+        		"category_id": 11,
+				"key": "Come with a box",
+				"value": "",
+				"field_type": "checkbox",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 84,
+        		"category_id": 11,
+				"key": "Provenance",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 85,
+        		"category_id": 11,
+				"key": "Storage",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 86,
+        		"category_id": 11,
+				"key": "Producer",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 87,
+        		"category_id": 11,
+				"key": "Vintage",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 88,
+        		"category_id": 11,
+				"key": "Country of Origin",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 89,
+        		"category_id": 11,
+				"key": "Region",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 90,
+        		"category_id": 11,
+				"key": "ABV",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 91,
+        		"category_id": 11,
+				"key": "Certification",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    }
+		]
+    },
+    {
+    	"id": 12,
+    	"parent_id": null,
+        "name": "Decorative Arts",
+        "properties": [
+        	{
+        		"id": 92,
+        		"category_id": 12,
+				"key": "Sub Category",
+				"value": "Furniture,Collectables & Curiosities,Other",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 93,
+        		"category_id": 12,
+				"key": "Country",
+				"value": "France,Italy,Germany,Belgium,Britain,United States,Scandinavia,Other",
+				"field_type": "dropdown",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 94,
+        		"category_id": 12,
+				"key": "Period",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 95,
+        		"category_id": 12,
+				"key": "Style",
+				"value": "Art Deco,Chinese,Contemporary,Design,British,French,Indonesian,Peranakan,Vintage,Islamic,Other",
+				"field_type": "checkbox",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 96,
+        		"category_id": 12,
+				"key": "Material",
+				"value": "Brass,Ceramic,Bronze,Glass,Hardstone Inlays,Leather,Linen,Marble,Mother-Of-Pearl Inlays,Pewter,Rattan,Stainless Steel,Upholstered,Wood,Lapis Lazuli",
+				"field_type": "dropdown&checkbox",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    },
+	    	{
+	    		"id": 97,
+        		"category_id": 12,
+				"key": "Certification",
+				"value": "",
+				"field_type": "text",
+				"is_required": "Optional",
+				"is_filter": "N"
+		    }
+		]
+    },
+    {
+    	"id": 13,
+    	"parent_id": null,
+        "name": "Collaborations",
+        "properties": []
+    }
+]

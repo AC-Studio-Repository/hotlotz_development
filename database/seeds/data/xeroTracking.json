@@ -1,0 +1,283 @@
+{
+  "Id": "ae83265e-535e-4c43-a2f8-4ba6f38fb14f",
+  "Status": "OK",
+  "ProviderName": "Xero API Previewer",
+  "DateTimeUTC": "\/Date(1605690677644)\/",
+  "TrackingCategories": [
+    {
+      "Name": "Business",
+      "Status": "ACTIVE",
+      "TrackingCategoryID": "b4197b2c-dd0f-4011-939d-a815993d9ea2",
+      "Options": [
+        {
+          "TrackingOptionID": "8c5c9ee0-6e5e-4f75-bd46-67e9005d2858",
+          "Name": "Admin",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "15709927-ca6c-4c55-bed3-d173f9d17112",
+          "Name": "Cons Auction",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "d5be5928-65e3-4927-b874-f767c385d90c",
+          "Name": "Cons Mktplace",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "5e3b310a-c049-4f07-ada3-1a9a47fb6646",
+          "Name": "Cons Priv Sale",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "fd9861c5-8032-4633-bb4d-dc9401bf1714",
+          "Name": "Events",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "81ee090b-1e16-4163-a414-d6390916e5dd",
+          "Name": "Non PT",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "0060468b-eefb-41ba-8140-a29d801ae3f5",
+          "Name": "OS Auction",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "85221ce3-91b5-4133-8cf7-ab35aeacfce2",
+          "Name": "OS Mktplace",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "e1313bca-6705-417d-80c6-b3c6746600a1",
+          "Name": "OS Priv Auct",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "8907758c-f4d2-4040-94b5-b165dac14707",
+          "Name": "OS Priv Mkt",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "66921922-3f93-4715-a2da-a2be4c2e84ad",
+          "Name": "Prof Serv",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "2b6cd7df-aa04-4280-98b8-3b990f529c50",
+          "Name": "PT Fram/Rest",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "999cda3a-ae42-4b44-bc24-4504ea530817",
+          "Name": "PT Mark''tg",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "ada2959e-c64d-4206-bfd5-4a446d198e95",
+          "Name": "PT Photo",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "4b38d673-23b5-4fd2-b668-86cf9e77acb7",
+          "Name": "PT Shipp",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "c16c267e-0216-4b09-8f36-8e102ca0e443",
+          "Name": "PT Sundries",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        }
+      ]
+    },
+    {
+      "Name": "Category",
+      "Status": "ACTIVE",
+      "TrackingCategoryID": "515744c2-0238-49da-ae3a-c3be2a59fcaa",
+      "Options": [
+        {
+          "TrackingOptionID": "701340fb-3e68-4e0b-9905-3eb47c92cd38",
+          "Name": "Antique Maps",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "d0cda127-ff65-47fd-aeef-0459f573560f",
+          "Name": "Art",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "e2abc22d-8b78-410c-b0ea-b449c139550a",
+          "Name": "Asian Coll",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "9028af90-5b2f-44d7-a59a-3918f168d776",
+          "Name": "Décor Arts",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "7b52ea1e-9785-4d16-a531-f4691edfe897",
+          "Name": "Design Fash",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "32892529-725e-4006-bd6e-99296cec7e79",
+          "Name": "Furniture",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "2e0e90a8-2357-4ba6-9b73-748fcc047dbf",
+          "Name": "Home Decor",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "f51a406f-50ef-4e7b-877a-664f8a78fe64",
+          "Name": "Jewellery",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "568a15a6-329f-4a63-8b5e-83881ca377a4",
+          "Name": "Non Specific",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "cd51a919-3c18-4ff0-b886-0df22d6d38d0",
+          "Name": "Rugs & Carpets",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "60fd42c4-c5e8-400e-a967-4f597375187d",
+          "Name": "Tableware",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "4483be68-5fce-480f-87db-a598492676bf",
+          "Name": "Watches",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        },
+        {
+          "TrackingOptionID": "cf06bd18-f746-46a1-a327-755d6b4a9b9c",
+          "Name": "Wine & Spirits",
+          "Status": "ACTIVE",
+          "HasValidationErrors": false,
+          "IsDeleted": false,
+          "IsArchived": false,
+          "IsActive": true
+        }
+      ]
+    }
+  ]
+}

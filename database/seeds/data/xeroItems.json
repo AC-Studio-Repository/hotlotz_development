@@ -1,0 +1,864 @@
+{
+  "Id": "eef6b70c-2957-475a-8e65-9575e25ae1b5",
+  "Status": "OK",
+  "ProviderName": "Xero API Previewer",
+  "DateTimeUTC": "\/Date(1605004677908)\/",
+  "Items": [
+    {
+      "ItemID": "b08589b4-dba5-45b2-a809-8e40cc44353c",
+      "Code": "Additional Charges",
+      "Description": "Additional Charges to Seller",
+      "PurchaseDescription": "Additional Charges Cost for Seller",
+      "UpdatedDateUTC": "\/Date(1601774774277+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "342",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "248",
+        "TaxType": ""
+      },
+      "Name": "Additional Charges",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRD"
+    },
+    {
+      "ItemID": "89dbf096-3d9f-4245-aecc-d7027ea723ce",
+      "Code": "Auct - Buyer Prem",
+      "Description": "Auction - Buyer Premium",
+      "UpdatedDateUTC": "\/Date(1601774774287+0000)\/",
+      "PurchaseDetails": {},
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "205",
+        "TaxType": ""
+      },
+      "Name": "Auction - Buyer Premium",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": false,
+      "SalesTaxRate": "SRD"
+    },
+    {
+      "ItemID": "f61706a5-e21a-4cf0-bf97-d9b8c14d884c",
+      "Code": "Auct - Hammer",
+      "Description": "Auction - Hammer Price",
+      "PurchaseDescription": "Auction - Hammer Price Cost",
+      "UpdatedDateUTC": "\/Date(1601774774297+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "300",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "200",
+        "TaxType": ""
+      },
+      "Name": "Auction - Hammer Price",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRD"
+    },
+    {
+      "ItemID": "7af9276c-8294-408a-9aef-a5f00530f056",
+      "Code": "Cites Cert",
+      "Description": "Cites Certification Recharge",
+      "PurchaseDescription": "Cites Certification Cost",
+      "UpdatedDateUTC": "\/Date(1601774774310+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "303",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "250",
+        "TaxType": ""
+      },
+      "Name": "Cites Certification",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRD"
+    },
+    {
+      "ItemID": "dbf5ac66-eb4d-4b6d-8371-4fd6dbb21b2e",
+      "Code": "Cleaning",
+      "Description": "Cleaning Recharge",
+      "PurchaseDescription": "Cleaning Cost",
+      "UpdatedDateUTC": "\/Date(1601774774320+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "305",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "210",
+        "TaxType": ""
+      },
+      "Name": "Cleaning",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRF"
+    },
+    {
+      "ItemID": "52ad8621-e9bd-45c6-823d-3e043980784e",
+      "Code": "Com - Minimum",
+      "Description": "Commission - Seller Minimum",
+      "PurchaseDescription": "Commission - Seller Minimum",
+      "UpdatedDateUTC": "\/Date(1601774774330+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "276",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "276",
+        "TaxType": ""
+      },
+      "Name": "Commission - Seller Minimum",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRD"
+    },
+    {
+      "ItemID": "412bab29-a34c-4416-ae59-d65198732208",
+      "Code": "Com - Perform",
+      "Description": "Commision - Seller Performance Premium",
+      "PurchaseDescription": "Commision - Seller Performance Premium",
+      "UpdatedDateUTC": "\/Date(1601774774340+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "275",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "275",
+        "TaxType": ""
+      },
+      "Name": "Commission - Seller Performance Premium",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRD"
+    },
+    {
+      "ItemID": "2fa429b8-dc2e-445f-acd9-93e4bdd143fa",
+      "Code": "Commission",
+      "Description": "Commission - Seller Premium",
+      "PurchaseDescription": "Commission - Seller Premium",
+      "UpdatedDateUTC": "\/Date(1601774774350+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "274",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "274",
+        "TaxType": ""
+      },
+      "Name": "Commission - Seller Premium",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRD"
+    },
+    {
+      "ItemID": "a3170fc8-9ee0-4747-b478-aa62a140b118",
+      "Code": "Event Hire",
+      "Description": "Event Hire Charge",
+      "UpdatedDateUTC": "\/Date(1601774774360+0000)\/",
+      "PurchaseDetails": {},
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "252",
+        "TaxType": ""
+      },
+      "Name": "Event Hire Charge",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": false,
+      "SalesTaxRate": "SRF"
+    },
+    {
+      "ItemID": "e7305a80-fa1d-49e8-8efe-8f02ba9f0ecb",
+      "Code": "Fixed Cost Sale Fee",
+      "Description": "Fixed Cost Sale Fee - Seller",
+      "UpdatedDateUTC": "\/Date(1601774775037+0000)\/",
+      "PurchaseDetails": {},
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "277",
+        "TaxType": ""
+      },
+      "Name": "Fixed Cost Sale Fee - Seller",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": false,
+      "SalesTaxRate": "SRF"
+    },
+    {
+      "ItemID": "78016baf-c3e5-4cfb-a4e1-46b966b7d919",
+      "Code": "Framing",
+      "Description": "Framing Recharge",
+      "PurchaseDescription": "Framing Cost",
+      "UpdatedDateUTC": "\/Date(1601774775053+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "320",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "220",
+        "TaxType": ""
+      },
+      "Name": "Framing",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRD"
+    },
+    {
+      "ItemID": "180b7ef6-8719-49b6-b15e-37d1178d424a",
+      "Code": "Furniture Hire",
+      "Description": "Furniture Hire Charge",
+      "UpdatedDateUTC": "\/Date(1601774775063+0000)\/",
+      "PurchaseDetails": {},
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "254",
+        "TaxType": ""
+      },
+      "Name": "Furniture Hire",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": false,
+      "SalesTaxRate": "SRF"
+    },
+    {
+      "ItemID": "dc6928a7-d8ac-4fe9-83cf-6221bc4a664d",
+      "Code": "Gemological Cert",
+      "Description": "Gemological Certification Recharge",
+      "PurchaseDescription": "Gemological Certification Cost",
+      "UpdatedDateUTC": "\/Date(1601774775073+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "325",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "256",
+        "TaxType": ""
+      },
+      "Name": "Gemological Certification Recharge",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRD"
+    },
+    {
+      "ItemID": "b92dbe34-b06a-4161-b5dc-6711771b3471",
+      "Code": "Insurance",
+      "Description": "Insurance Recharge",
+      "PurchaseDescription": "Insurance Recharge",
+      "UpdatedDateUTC": "\/Date(1601774775083+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "272",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "272",
+        "TaxType": ""
+      },
+      "Name": "Insurance Recharge",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRD"
+    },
+    {
+      "ItemID": "5ac721f7-d683-435e-b19b-d17bc8e7a54e",
+      "Code": "Listing Fee",
+      "Description": "Listing Fee Charge",
+      "UpdatedDateUTC": "\/Date(1601774775093+0000)\/",
+      "PurchaseDetails": {},
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "280",
+        "TaxType": ""
+      },
+      "Name": "Listing Fee Charge",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": false,
+      "SalesTaxRate": "SRD"
+    },
+    {
+      "ItemID": "77d3e533-8294-4b3e-a560-74a3008b5dec",
+      "Code": "Marketing",
+      "Description": "Marketing On Charge",
+      "PurchaseDescription": "Marketing Cost",
+      "UpdatedDateUTC": "\/Date(1601774775103+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "330",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "282",
+        "TaxType": ""
+      },
+      "Name": "Marketing",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRD"
+    },
+    {
+      "ItemID": "df1a4fd0-07e8-4f01-b880-41dd5bd80202",
+      "Code": "MP - Fixed Price",
+      "Description": "Marketplace - Fixed Price",
+      "PurchaseDescription": "Marketplace - Fixed Price Cost",
+      "UpdatedDateUTC": "\/Date(1601774775113+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "300",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "200",
+        "TaxType": ""
+      },
+      "Name": "Marketplace - Fixed Price",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRD"
+    },
+    {
+      "ItemID": "abfb1609-e3bf-4650-b6ca-a5cd8eb5a370",
+      "Code": "OS Auct - Buyer Prem",
+      "Description": "Hotlotz Own Stock - Buyer Premium",
+      "UpdatedDateUTC": "\/Date(1601774775320+0000)\/",
+      "PurchaseDetails": {},
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "205",
+        "TaxType": ""
+      },
+      "Name": "Hotlotz Own Stock - Buyer Premium",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": false,
+      "SalesTaxRate": "SRF"
+    },
+    {
+      "ItemID": "9b4d142b-92e1-4441-b020-9752e894bd41",
+      "Code": "OS Auct - Hammer",
+      "Description": "Hotlotz Own Stock - Hammer",
+      "UpdatedDateUTC": "\/Date(1601774775333+0000)\/",
+      "PurchaseDetails": {},
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "200",
+        "TaxType": ""
+      },
+      "Name": "Hotlotz Own Stock  - Hammer",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": false,
+      "SalesTaxRate": "SRF"
+    },
+    {
+      "ItemID": "89748c98-33e6-4e1c-b36b-ba9de3761f07",
+      "Code": "OS MP - Fixed Price",
+      "Description": "Hotlotz Own Stock Marketplace - Fixed Price",
+      "UpdatedDateUTC": "\/Date(1601774775340+0000)\/",
+      "PurchaseDetails": {},
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "200",
+        "TaxType": ""
+      },
+      "Name": "Hotlotz Own Stock Marketplace - Fixed Price",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": false,
+      "SalesTaxRate": "SRF"
+    },
+    {
+      "ItemID": "a3807989-9f75-484e-bcdb-cd7890b10597",
+      "Code": "OS Priv - Buyer Prem",
+      "Description": "Hotlotz Own Stock  - Buyer Premium",
+      "UpdatedDateUTC": "\/Date(1601774775350+0000)\/",
+      "PurchaseDetails": {},
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "205",
+        "TaxType": ""
+      },
+      "Name": "Hotlotz Own Stock  - Buyer Premium",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": false,
+      "SalesTaxRate": "SRF"
+    },
+    {
+      "ItemID": "f05d4725-bbe5-48e4-96f5-4bb587d4e661",
+      "Code": "OS Priv - Fixed Price",
+      "Description": "Hotlotz Own Stock Private - Fixed Price",
+      "UpdatedDateUTC": "\/Date(1601774775360+0000)\/",
+      "PurchaseDetails": {},
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "200",
+        "TaxType": ""
+      },
+      "Name": "Hotlotz Own Stock Private - Fixed Price",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": false,
+      "SalesTaxRate": "SRF"
+    },
+    {
+      "ItemID": "7968ac53-6c4a-49e6-9a48-61dc766c1963",
+      "Code": "OS Priv - Hammer",
+      "Description": "Hotlotz Own Stock Private - Hammer",
+      "UpdatedDateUTC": "\/Date(1601774775370+0000)\/",
+      "PurchaseDetails": {},
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "200",
+        "TaxType": ""
+      },
+      "Name": "Hotlotz Own Stock Private - Hammer",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": false,
+      "SalesTaxRate": "SRF"
+    },
+    {
+      "ItemID": "8a1db03b-295c-4b10-9e1d-b01486af4a34",
+      "Code": "Pack Materials",
+      "Description": "Packaging Materials Recharge",
+      "PurchaseDescription": "Packaging Materials Cost",
+      "UpdatedDateUTC": "\/Date(1601774775377+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "335",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "235",
+        "TaxType": ""
+      },
+      "Name": "Packaging Materials",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRD"
+    },
+    {
+      "ItemID": "3ba0a2aa-5ebb-4f6c-badc-d7b3e1eb0b74",
+      "Code": "Photography",
+      "Description": "Photography On Charge",
+      "PurchaseDescription": "Photography Cost",
+      "UpdatedDateUTC": "\/Date(1601774775387+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "340",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "284",
+        "TaxType": ""
+      },
+      "Name": "Photography",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRD"
+    },
+    {
+      "ItemID": "11b68a0b-76e7-4641-a52a-ff1712784119",
+      "Code": "Priv - Buyer Prem",
+      "Description": "Private - Buyer Premium",
+      "UpdatedDateUTC": "\/Date(1601774775397+0000)\/",
+      "PurchaseDetails": {},
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "205",
+        "TaxType": ""
+      },
+      "Name": "Private - Buyer Premium",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": false,
+      "SalesTaxRate": "SRD"
+    },
+    {
+      "ItemID": "c588a8fd-1ea2-49d3-8a29-2ca83ae23ba7",
+      "Code": "Private",
+      "Description": "Private",
+      "PurchaseDescription": "Private Cost",
+      "UpdatedDateUTC": "\/Date(1601774775407+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "300",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "200",
+        "TaxType": ""
+      },
+      "Name": "Private",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRD"
+    },
+    {
+      "ItemID": "65dced82-ad2f-4aea-ae2b-0f31bb819f66",
+      "Code": "PS - Home Visit",
+      "Description": "Professional Service - Home Visit",
+      "UpdatedDateUTC": "\/Date(1601774775417+0000)\/",
+      "PurchaseDetails": {},
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "260",
+        "TaxType": ""
+      },
+      "Name": "Professional Service - Home Visit",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": false,
+      "SalesTaxRate": "SRF"
+    },
+    {
+      "ItemID": "7e71a45b-46f4-4726-a2ae-cc7500504a66",
+      "Code": "PS - Inventory",
+      "Description": "Professional Service - Inventory",
+      "UpdatedDateUTC": "\/Date(1601774775427+0000)\/",
+      "PurchaseDetails": {},
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "262",
+        "TaxType": ""
+      },
+      "Name": "Professional Service - Inventory",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": false,
+      "SalesTaxRate": "SRF"
+    },
+    {
+      "ItemID": "10432ff9-f123-4210-b707-06a86c519dc5",
+      "Code": "PS - Other",
+      "Description": "Professional Service - Other",
+      "PurchaseDescription": "Professional Service - Other",
+      "UpdatedDateUTC": "\/Date(1601774775437+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "345",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "264",
+        "TaxType": ""
+      },
+      "Name": "Professional Service - Other",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRF"
+    },
+    {
+      "ItemID": "10d90167-8568-4201-9357-50240c5be342",
+      "Code": "PS - Valuation",
+      "Description": "Professional Service - Valuation",
+      "PurchaseDescription": "Professional Service - Valuation",
+      "UpdatedDateUTC": "\/Date(1601774775577+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "350",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "266",
+        "TaxType": ""
+      },
+      "Name": "Professional Service - Valuation",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRD"
+    },
+    {
+      "ItemID": "23affa37-182f-4f23-8da1-4b1137886e31",
+      "Code": "Restoration",
+      "Description": "Restoration Recharge",
+      "PurchaseDescription": "Restoration Cost",
+      "UpdatedDateUTC": "\/Date(1601774775610+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "355",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "230",
+        "TaxType": ""
+      },
+      "Name": "Restoration",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRD"
+    },
+    {
+      "ItemID": "7a3a0186-66e9-4726-a298-5814250cd659",
+      "Code": "Security",
+      "Description": "Security Recharge",
+      "PurchaseDescription": "Security Cost",
+      "UpdatedDateUTC": "\/Date(1601774775620+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "360",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "267",
+        "TaxType": ""
+      },
+      "Name": "Security",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRF"
+    },
+    {
+      "ItemID": "567d8b43-9bb8-4264-b547-08a283f7c36f",
+      "Code": "Shipping - Dom OB",
+      "Description": "Shipping - Domestic Outbound Recharge",
+      "PurchaseDescription": "Shipping - Domestic Outbound Cost",
+      "UpdatedDateUTC": "\/Date(1601774775693+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "365",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "240",
+        "TaxType": ""
+      },
+      "Name": "Shipping - Domestic Outbound",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRF"
+    },
+    {
+      "ItemID": "8ed37e61-486d-4bdf-b44c-6308dd653062",
+      "Code": "Shipping - Dom SR",
+      "Description": "Shipping - Domestic Salesroom Charge",
+      "PurchaseDescription": "Shipping - Domestic Salesroom Cost",
+      "UpdatedDateUTC": "\/Date(1601774775703+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "365",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "240",
+        "TaxType": ""
+      },
+      "Name": "Shipping - Domestic SR",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRF"
+    },
+    {
+      "ItemID": "83c3cbc5-7dd1-4b91-b561-638fa0f7e9d1",
+      "Code": "Shipping - Inbound",
+      "Description": "Shipping - Inbound Recharge to Sellers",
+      "PurchaseDescription": "Shipping - Inbound from Sellers",
+      "UpdatedDateUTC": "\/Date(1601774775717+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "370",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "240",
+        "TaxType": ""
+      },
+      "Name": "Shipping - Inbound",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRF"
+    },
+    {
+      "ItemID": "5a6ed611-0e1a-4ac6-ae72-b42c93da1df0",
+      "Code": "Shipping - OSeas OB",
+      "Description": "Shipping - Overseas Outbound Charge",
+      "PurchaseDescription": "Shipping - Overseas Outbound Cost",
+      "UpdatedDateUTC": "\/Date(1601774775723+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "367",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "241",
+        "TaxType": ""
+      },
+      "Name": "Shipping - Overseas Outbound",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRF"
+    },
+    {
+      "ItemID": "c7ef837a-0978-4923-8cd8-f619cb5a18f8",
+      "Code": "Shipping - Unsold OB",
+      "Description": "Shipping - Unsold Outbound Charge",
+      "PurchaseDescription": "Shipping - Unsold Outbound Cost",
+      "UpdatedDateUTC": "\/Date(1601774775733+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "370",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "240",
+        "TaxType": ""
+      },
+      "Name": "Shipping - Unsold Outbound",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRF"
+    },
+    {
+      "ItemID": "8b72d53b-da55-4496-a518-42e1b735480f",
+      "Code": "Storage - Sold Uncol",
+      "Description": "Storage - Sold Uncollected",
+      "UpdatedDateUTC": "\/Date(1601774775743+0000)\/",
+      "PurchaseDetails": {},
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "245",
+        "TaxType": ""
+      },
+      "Name": "Storage - Sold Uncollected",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": false,
+      "SalesTaxRate": "SRD"
+    },
+    {
+      "ItemID": "889e75d4-52a7-4fe0-9e92-99b641f6da5e",
+      "Code": "Storage - Unsold Uncol",
+      "Description": "Storage - Unsold Uncollected Charge",
+      "UpdatedDateUTC": "\/Date(1601774775753+0000)\/",
+      "PurchaseDetails": {},
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "288",
+        "TaxType": ""
+      },
+      "Name": "Storage - Unsold Uncollected Charge",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": false,
+      "SalesTaxRate": "SRD"
+    },
+    {
+      "ItemID": "25483aba-9f50-44da-b81d-0dd24226583d",
+      "Code": "Sundry PT",
+      "Description": "Sundry Recharge",
+      "PurchaseDescription": "Sundry Cost",
+      "UpdatedDateUTC": "\/Date(1601774775763+0000)\/",
+      "PurchaseDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "375",
+        "TaxType": ""
+      },
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "268",
+        "TaxType": ""
+      },
+      "Name": "Sundry PT",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": true,
+      "SalesTaxRate": "SRF"
+    },
+    {
+      "ItemID": "dcd7dfc0-b730-4d5d-b62a-6c37c883b17c",
+      "Code": "Unsold Fee",
+      "Description": "Unsold Fee Charge",
+      "UpdatedDateUTC": "\/Date(1601774775770+0000)\/",
+      "PurchaseDetails": {},
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "290",
+        "TaxType": ""
+      },
+      "Name": "Unsold Fee Charge",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": false,
+      "SalesTaxRate": "SRD"
+    },
+    {
+      "ItemID": "d9b9aafd-f170-479c-9cc3-3bec0671b9bc",
+      "Code": "Withdrawal Fee",
+      "Description": "Withdrawal Fee Charge",
+      "UpdatedDateUTC": "\/Date(1601774775780+0000)\/",
+      "PurchaseDetails": {},
+      "SalesDetails": {
+        "UnitPrice": 0.0000,
+        "AccountCode": "292",
+        "TaxType": ""
+      },
+      "Name": "Withdrawal Fee Charge",
+      "IsTrackedAsInventory": false,
+      "IsSold": true,
+      "IsPurchased": false,
+      "SalesTaxRate": "SRD"
+    }
+  ]
+}
